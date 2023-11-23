@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
 		 'ec2-3-67-195-130.eu-central-1.compute.amazonaws.com', 
 		'3.67.195.130',
-		'ec2-18-184-114-28.eu-central-1.compute.amazonaws.com'
+		'ec2-18-184-114-28.eu-central-1.compute.amazonaws.com',
 		'18.184.114.28 ',
 		]
 
