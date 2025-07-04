@@ -1,8 +1,7 @@
+import os
 import googlemaps
-import environ
-env = environ.Env()
-environ.Env.read_env()
-GOOGLE_API_KEY = env("GOOGLE_API_KEY")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
 
 class Distance:
     def __init__(self, origin, destination):
