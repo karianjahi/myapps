@@ -103,8 +103,8 @@ Manages English Premier League season statistics. Access restricted to superuser
 
 1. **Clone the repository**
    ```
-   git clone <your_repo_url>
-   cd <project_directory>
+   git clone https://github.com/karianjahi/myapps.git
+   cd myapps
    ```
 2. Create virtual environment
     ```
@@ -228,4 +228,4 @@ PUT /epl-table/1/
 This project is for educational and demonstration purposes only.
 
 ## Author
-Dr.rer.nat Joseph Karianjahi Njeri
+### Dr.rer.nat Joseph Karianjahi Njeri
